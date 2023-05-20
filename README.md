@@ -1,5 +1,4 @@
-### Hi there 👋
-
+https://github-profile-trophy.vercel.app/?username=MP-31&theme=dracula
 <!--
 **mp-31/MP-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
